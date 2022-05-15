@@ -1,0 +1,46 @@
+
+      
+      /*<div className='movies'>
+        <div className='movie_details'>
+          <img src={spiderimg} alt='spider' className='image'/>
+        <div className='rate'>
+          <div className='rating'>
+            <h1>Spider Man</h1>
+            <div className='rated'>
+            <img src={star} alt='rating' />
+            <h5>8.0</h5>
+            </div>
+          </div>
+          <div className='time'>
+            <h3 className='movie_mins'>117 mins</h3>
+            <h3 className='movie_type'>Action, Drama, Sci-fi</h3>
+            <div className='watch'>
+            <button>+</button>
+            <h3>Watchlist</h3>
+            </div>
+          </div>
+          <div className='details'>
+            <p>bat is a pat that can fat the mathematics of an equation under
+              standard conditions csused my metabolic reaction and i dont even 
+              undersatnd what i am saying in this place or what ia ma typing 
+              it is so funny omo exploit is in soup that is not fair at all 
+              life is in a spoon with a soup of egusi causing it to feekl like an amala in the bucket 
+              of a beans
+            </p>
+          </div>
+        </div>
+        </div>
+
+
+        const first_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[0].imdbID}&apikey=658d14aa`);
+        const second_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[1].imdbID}&apikey=658d14aa`);
+        const third_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[2].imdbID}&apikey=658d14aa`);
+        const fourth_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[3].imdbID}&apikey=658d14aa`);
+        const fifth_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[4].imdbID}&apikey=658d14aa`);
+        const sixth_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[5].imdbID}&apikey=658d14aa`);
+        const seventh_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[6].imdbID}&apikey=658d14aa`);
+        const eighth_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[7].imdbID}&apikey=658d14aa`);
+        const nineth_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[8].imdbID}&apikey=658d14aa`);
+        const tenth_movie = await axios.get(`http://www.omdbapi.com/?i=${getMovies.data.Search[9].imdbID}&apikey=658d14aa`);
+
+        */
